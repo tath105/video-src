@@ -1,0 +1,251 @@
+{
+  "visibleCount": 4,
+  "lives": [
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
+      "#title": "OFFLINE",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/icablenews/videos/2224469614315626/",
+      "#title": "icablenews",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/rthkPCA/videos/468851533661325/",
+      "#title": "RTHKVNEWS",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2322294114503477/",
+      "#title": "hk.nextmedia",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2296338913951065/",
+      "#title": "hk.nextmedia-2",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/now.comNews/videos/331012481153584/",
+      "#title": "now.comNews",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/406277083329579/",
+      "#title": "standnewshk",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/2445795558804191/",
+      "#title": "standnewshk-2",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/1408846919255005/",
+      "#title": "standnewshk-3",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/2124003701230774/",
+      "#title": "standnewshk-4",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/347072369311022/",
+      "#title": "standnewshk-5",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2293152654235902/",
+      "#title": "RTHKVNEWS-2",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/inmediahk/videos/430900794173040/",
+      "#title": "inmediahk",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/inmediahk/videos/472461093521307/",
+      "#title": "inmediahk-2",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/JustProductionAus/videos/379956362641870/",
+      "#title": "JustProductionAus",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk01.news/videos/479481385959546/",
+      "#title": "HK01",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk01.news/videos/2388131961467596/",
+      "#title": "HK01-2",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/onccnews/videos/340051603585748/",
+      "#title": "onccnews",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/onccnews/videos/436494280464066/",
+      "#title": "onccnews-2",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/OqwAXNgs3eE",
+      "#title": "China Uncensored",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/662730390805932/",
+      "#title": "TMHK.ORG",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/496763447732407/",
+      "#title": "TMHK.ORG-2",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/socrec/videos/558734684654944/",
+      "#title": "socrec",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/passiontimes/videos/425873191475751/",
+      "#title": "passiontimes",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/atvhongkong/videos/581749882350938/",
+      "#title": "atvhongkong",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/UPMEDIA.MG/videos/465713664192258/",
+      "#title": "UPMEDIA.MG",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/mingpaoinews/videos/465235247599200/",
+      "#title": "mingpaoinews",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/pQeeo6ZqMds",
+      "#title": "三立新聞網SETN.com",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/5yOchfc6o8g",
+      "#title": "HKTheEpochTimes",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/830NyAVy8N8",
+      "#title": "freedomchina2018",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/rthkPCA/videos/638133636691242/",
+      "#title": "rthkPCA",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/scmp/videos/2341797905911482/",
+      "#title": "scmp",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/kKiNMWBTnzs",
+      "#title": "GuardianNews",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/4TczrAqv0yk",
+      "#title": "RT",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/7umyDFh3EJI",
+      "#title": "NTDCHINESE",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/ixNClY6OeMY",
+      "#title": "台灣大紀元時報",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Zv9q6IPkPm8",
+      "#title": "Agenda-Free TV",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Sxos1A17lpg",
+      "#title": "Ruptly",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/29_YMzyFbF4",
+      "#title": "tvbs",
+      "active": false
+    },
+    {
+      "type": "yahoo",
+      "#id": "https://finance.yahoo.com/video/yahootv-612-085700502.html?format=embed",
+      "#title": "yahootv",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKcityforum/videos/2056599964649453/",
+      "#title": "RTHKcityforum",
+      "active": false
+    }
+  ]
+}
