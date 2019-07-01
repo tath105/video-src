@@ -3,7 +3,7 @@
   "lives": [
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/watch?v=dp8PhLsUcFE",
+      "#id": "https://www.youtube.com/embed/dp8PhLsUcFE",
       "#title": "Bloomberg Global News",
       "active": true
     },
